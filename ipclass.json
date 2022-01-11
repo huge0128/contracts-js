@@ -1,0 +1,27 @@
+[
+    {
+    "ipAddress":"192.168.100.1",
+    "timestamp":20210708,
+    "interval":10,
+    "Credibility":85,
+    "Threshold":80
+},
+{
+    "ipAddress":"192.168.100.10",
+    "timestamp":20210708,
+    "interval":15,
+    "Credibility":75,
+    "Threshold":80
+},
+{
+    "ipAddress":"192.168.100.11",
+    "timestamp":20210708,
+    "interval":5,
+    "Credibility":75,
+    "Threshold":80
+}
+]
+
+
+
+
